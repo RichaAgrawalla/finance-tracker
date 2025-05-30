@@ -153,9 +153,3 @@ class Application(ctk.CTk):
 if __name__ == "__main__":
     app = Application()
     app.mainloop()
-
-###########################
-
-#Contributor: Hina Ota
-
-##########################
